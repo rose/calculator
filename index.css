@@ -52,9 +52,9 @@ div {
 
   border: solid;
   border-width: 1px;
-  border-color: red;
+  border-color: #fbb;
   background-color: black;
-  color: red;
+  color: #fbb;
 }
 
 input {
